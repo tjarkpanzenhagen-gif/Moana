@@ -42,7 +42,7 @@ export default function ReservationCta() {
             Tisch online reservieren
           </Link>
           <a
-            href="tel:+49TELEFONNUMMER"
+            href="tel:+4938314458726"
             className="inline-flex items-center justify-center border border-charcoal/30 text-charcoal label-sm px-8 py-4 hover:border-charcoal transition-colors duration-200 rounded-sm"
           >
             Direkt anrufen

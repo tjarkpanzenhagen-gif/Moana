@@ -27,11 +27,11 @@ export default function ImpressumPage() {
 
           <section>
             <h2 className="font-serif text-lg font-light text-charcoal mb-3">Kontakt</h2>
-            <p>Telefon: +49 [Telefonnummer]</p>
+            <p>Telefon: +49 3831 4458726</p>
             <p>
               E-Mail:{" "}
-              <a href="mailto:info@moana-kitchen.de" className="text-terracotta hover:underline">
-                info@moana-kitchen.de
+              <a href="mailto:Restaurant.Moana@web.de" className="text-terracotta hover:underline">
+                Restaurant.Moana@web.de
               </a>
             </p>
           </section>

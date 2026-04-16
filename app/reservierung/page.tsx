@@ -27,10 +27,10 @@ export default function ReservierungPage() {
             <span className="font-medium text-charcoal">Gruppen ab 8 Personen</span> bitten
             wir um direkten Anruf:{" "}
             <a
-              href="tel:+49TELEFONNUMMER"
+              href="tel:+4938314458726"
               className="text-terracotta hover:text-terracotta-light transition-colors"
             >
-              +49 [Telefonnummer]
+              +49 3831 4458726
             </a>
           </p>
         </div>

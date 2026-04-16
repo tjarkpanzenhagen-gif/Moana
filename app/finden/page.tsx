@@ -72,19 +72,19 @@ export default function FindenPage() {
                 <div className="flex items-center gap-3">
                   <span className="text-charcoal-muted w-16">Telefon</span>
                   <a
-                    href="tel:+49TELEFONNUMMER"
+                    href="tel:+4938314458726"
                     className="text-charcoal hover:text-terracotta transition-colors"
                   >
-                    +49 [Telefonnummer einfügen]
+                    +49 3831 4458726
                   </a>
                 </div>
                 <div className="flex items-center gap-3">
                   <span className="text-charcoal-muted w-16">E-Mail</span>
                   <a
-                    href="mailto:info@moana-kitchen.de"
+                    href="mailto:Restaurant.Moana@web.de"
                     className="text-charcoal hover:text-terracotta transition-colors"
                   >
-                    info@moana-kitchen.de
+                    Restaurant.Moana@web.de
                   </a>
                 </div>
                 <div className="flex items-center gap-3">

@@ -73,8 +73,8 @@ const schemaOrgRestaurant = {
   description:
     "Casual Fine Dining in Stralsund. Saisonale, kreative Küche mit regionalen Zutaten. Karte wechselt alle 2 Wochen.",
   url: BASE_URL,
-  telephone: "+49-[TELEFONNUMMER]",
-  email: "info@moana-kitchen.de",
+  telephone: "+49-3831-4458726",
+  email: "Restaurant.Moana@web.de",
   address: {
     "@type": "PostalAddress",
     streetAddress: "Heilgeiststraße 92",

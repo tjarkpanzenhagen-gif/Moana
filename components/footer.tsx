@@ -56,16 +56,16 @@ export default function Footer() {
           </address>
           <div className="mt-4 space-y-1 text-sm">
             <a
-              href="tel:+49TELEFONNUMMER"
+              href="tel:+4938314458726"
               className="block text-cream/60 hover:text-cream transition-colors"
             >
-              +49 [Telefonnummer]
+              +49 3831 4458726
             </a>
             <a
-              href="mailto:info@moana-kitchen.de"
+              href="mailto:Restaurant.Moana@web.de"
               className="block text-cream/60 hover:text-cream transition-colors"
             >
-              info@moana-kitchen.de
+              Restaurant.Moana@web.de
             </a>
           </div>
         </div>
